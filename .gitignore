@@ -1,0 +1,14 @@
+# VS Code settings
+.vscode/
+
+# Face training data
+faces/
+
+# Trained face recognition model
+trainer/
+
+# Vosk speech recognition model
+vosk-model-en-in-0.5/
+
+# macOS system files
+.DS_Store

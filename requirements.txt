@@ -1,0 +1,11 @@
+opencv-contrib-python
+
+mediapipe
+
+pyautogui
+
+numpy
+
+sounddevice
+
+vosk
