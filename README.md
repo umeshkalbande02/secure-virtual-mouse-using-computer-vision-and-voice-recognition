@@ -108,6 +108,31 @@ After successful authentication, MediaPipe processes hand landmarks and the dete
 
 The microphone is used when voice mode is activated. Vosk processes the recorded audio locally and the recognized command is passed to the corresponding macOS action.
 
+## Project Screenshots
+
+The following screenshots show the main features of the Secure Virtual Mouse system during execution.
+
+### 1. Face Authentication
+
+![Authorized User Detected](assets/screenshots/Authorized%20User%20Detected.png)
+
+### 2. Cursor Movement Using Hand Gestures
+
+![Cursor Movement Using Index Finger](assets/screenshots/Cursor%20Movement%20Using%20Index%20Finger.png)
+
+### 3. Left Click Gesture Detection
+
+![Left Click Gesture Detection](assets/screenshots/Left%20Click%20Gesture%20Detection.png)
+
+### 4. Scroll Operation
+
+![Scroll Operation Using Gesture](assets/screenshots/Scroll%20Operation%20Using%20Gesture.png)
+
+### 5. System Locked State
+
+![System Locked State](assets/screenshots/System%20Locked%20State.png)
+
+
 ## Technologies Used
 
 | Technology | Purpose |
